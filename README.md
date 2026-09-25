@@ -1,498 +1,530 @@
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <b>New from Open Dev Society:</b> <a href="https://github.com/Open-Dev-Society/kitbash"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest.
-</p>
-
-<p align="center">
- <a href="https://www.star-history.com/open-dev-society/openstock">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank" /><img alt="Star History Rank" src="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=trending&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=trending" /><img alt="GitHub Trending Repository of the Day" src="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=trending" /></picture>
- </a>
-</p>
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/15728?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/15728" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
-  <a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/daily?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
-  <a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/weekly?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
-  <a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/monthly?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
-
-</p>
 <div align="center">
-  <br />
-  <a href="#" target="_blank">
-    <img src="./public/assets/images/dashboard.png" alt="Project Banner" />
-  </a>
-  © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistribute, or deploy it (including as a web service), you must release your source code under the same license and credit the original authors.
-  <br />
-  <br/>
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=000000" alt="Next.js badge" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=38B2AC"/>
-    <img src="https://img.shields.io/badge/-shadcn/ui-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000"/>
-    <img src="https://img.shields.io/badge/-Radix%20UI-black?style=for-the-badge&logoColor=white&logo=radixui&color=000000"/>
-    <img src="https://img.shields.io/badge/-Better%20Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=000000"/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=00A35C"/>
-    <img src="https://img.shields.io/badge/-Inngest-black?style=for-the-badge&logoColor=white&logo=inngest&color=000000"/>
-    <img src="https://img.shields.io/badge/-Nodemailer-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335"/>
-    <img src="https://img.shields.io/badge/-TradingView-black?style=for-the-badge&logoColor=white&logo=tradingview&color=2962FF"/>
-    <img src="https://img.shields.io/badge/-Finnhub-black?style=for-the-badge&logoColor=white&color=30B27A"/>
-    <img src="https://img.shields.io/badge/-CodeRabbit-black?style=for-the-badge&logoColor=white&logo=coderabbit&color=9146FF"/>
-  </div>
+📈 OpenStock — tetiana kotolup Edition
+
+🚀 A modern, open-source stock market terminal for everyday investors
+
+<p>
+  <a href="https://tetianakotolup.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-OpenStock-00C7B7?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/tetiana-a/OpenStock" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
+    <img src="https://img.shields.io/badge/Based%20on-OpenStock-0A0A0A?style=for-the-badge" alt="Original OpenStock">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MongoDB-00A35C?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Inngest-000000?style=flat-square" alt="Inngest">
+  <img src="https://img.shields.io/badge/Finnhub-30B27A?style=flat-square" alt="Finnhub">
+  <img src="https://img.shields.io/badge/TradingView-2962FF?style=flat-square&logo=tradingview&logoColor=white" alt="TradingView">
+</p>
+
+<p>
+  <b>Personal deployment & customization by Eduard</b><br>
+  Built on the open-source OpenStock project by Open Dev Society.<br>
+  🌐 <a href="https://tetianakotolup.com/" target="_blank">tetianakotolup.com</a>
+</p>
+
 </div>
 
-# OpenStock
+🌐 Live
 
-OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+OpenStock — your personal market terminal, available online from any device.
 
-Note: OpenStock is community-built and not a brokerage. Market data may be delayed based on provider rules and your configuration. Nothing here is financial advice.
+🌐 https://tetianakotolup.com/
 
-## 📋 Table of Contents
+📱 Desktop · Tablet · Mobile
 
-1. ✨ [Introduction](#introduction)
-2. 🌍 [Open Dev Society Manifesto](#manifesto)
-3. ⚙️ [Tech Stack](#tech-stack)
-4. 🔋 [Features](#features)
-5. 🤸 [Quick Start](#quick-start)
-6. 🐳 [Docker Setup](#docker-setup)
-7. 🔐 [Environment Variables](#environment-variables)
-8. 🧱 [Project Structure](#project-structure)
-9. 📡 [Data & Integrations](#data--integrations)
-10. 🌍 [Market Support](#market-support)
-11. 🧪 [Scripts & Tooling](#scripts--tooling)
-12. 🤝 [Contributing](#contributing)
-13. 🛡️ [Security](#security)
-14. 📜 [License](#license)
-15. 🙏 [Acknowledgements](#acknowledgements)
+🧭 What is OpenStock?
 
-## ✨ Introduction <a name="introduction"></a>
+OpenStock is an open-source alternative to expensive market platforms.
 
-OpenStock is a modern stock market app powered by Next.js (App Router), shadcn/ui and Tailwind CSS, Better Auth for authentication, MongoDB for persistence, Finnhub for market data, and TradingView widgets for charts and market views.
+It brings together:
 
-## 🌍 Open Dev Society Manifesto <a name="manifesto"></a>
+📊 stock prices and market information
 
-We live in a world where knowledge is hidden behind paywalls. Where tools are locked in subscriptions. Where information is twisted by bias. Where newcomers are told they’re not “good enough” to build.
+🔎 fast symbol search
 
-We believe there’s a better way.
+⭐ personal watchlists
 
-- Our Belief: Technology should belong to everyone. Knowledge should be open, free, and accessible. Communities should welcome newcomers with trust, not gatekeeping.
-- Our Mission: Build free, open-source projects that make a real difference:
-    - Tools that professionals and students can use without barriers.
-    - Knowledge platforms where learning is free, forever.
-    - Communities where every beginner is guided, not judged.
-    - Resources that run on trust, not profit.
-- Our Promise: We will never lock knowledge. We will never charge for access. We will never trade trust for money. We run on transparency, donations, and the strength of our community.
-- Our Call: If you’ve ever felt you didn’t belong, struggled to find free resources, or wanted to build something meaningful — you belong here.
+📈 TradingView charts and market views
 
-Because the future belongs to those who build it openly.
+🏢 company profiles and financial information
 
-## ⚙️ Tech Stack <a name="tech-stack"></a>
+📰 market news
 
-Core
-- Next.js 15 (App Router), React 19
-- TypeScript
-- Tailwind CSS v4 (via @tailwindcss/postcss)
-- shadcn/ui + Radix UI primitives
-- Lucide icons
+🔐 email/password authentication
 
-Auth & Data
-- Better Auth (email/password) with MongoDB adapter
-- MongoDB + Mongoose
-- Finnhub API for symbols, profiles, and market news
-- TradingView embeddable widgets
+🤖 automation and AI-powered workflows
 
-Automation & Comms
-- Inngest (events, cron, AI inference via Gemini)
-- Nodemailer (Gmail transport)
-- next-themes, cmdk (command palette), react-hook-form
+🌍 support for international markets
 
-Language composition
-- TypeScript (~93.4%), CSS (~6%), JavaScript (~0.6%)
+OpenStock is a community-built market information application — not a brokerage and not financial advice. Market data availability and delay depend on the data provider and plan. fileciteturn1file0L47-L51
 
-## 🔋 Features <a name="features"></a>
+✨ Why this project?
 
-- Authentication
-    - Email/password auth with Better Auth + MongoDB adapter
-    - Protected routes enforced via Next.js middleware
-- Global search and Command + K palette
-    - Fast stock search backed by Finnhub
-    - Popular stocks when idle; debounced querying
-- Watchlist
-    - Per-user watchlist stored in MongoDB (unique symbol per user)
-- Stock details
-    - TradingView symbol info, candlestick/advanced charts, baseline, technicals
-    - Company profile and financials widgets
-    - Optional cross-source sentiment insights for Reddit, X.com, news, and Polymarket
-- Market overview
-    - Heatmap, quotes, and top stories (TradingView widgets)
-- Personalized onboarding
-    - Collects country, investment goals, risk tolerance, preferred industry
-- Email & automation
-    - AI-personalized welcome email (Gemini via Inngest)
-    - Weekly news summary email (cron) sent as a Kit broadcast
-- Polished UI
-    - shadcn/ui components, Radix primitives, Tailwind v4 design tokens
-    - Dark theme by default
-- Keyboard shortcut
-    - Cmd/Ctrl + K for quick actions/search
+🧠 Information without unnecessary complexity
 
-## 🤸 Quick Start <a name="quick-start"></a>
+The goal is simple:
 
-Prerequisites
-- Node.js 20+ and pnpm or npm
-- MongoDB connection string (MongoDB Atlas or local via Docker Compose)
-- Finnhub API key (free tier supported; real-time may require paid)
-- Gmail account for email (or update Nodemailer transport)
-- Optional: Google Gemini API key (for AI-generated welcome intros)
+Make useful market information easier to access, understand and explore.
 
-Clone and install
-```bash
-git clone https://github.com/Open-Dev-Society/OpenStock.git
+The original Open Dev Society project is built around open technology, accessible learning and community-driven development. This fork keeps that spirit while adding a personal deployment and visual identity. fileciteturn1file0L75-L90
+
+🚀 Main Features
+
+🔐 Secure Authentication
+
+Email/password registration and sign-in
+
+Better Auth
+
+MongoDB-backed sessions
+
+Protected application routes
+
+🔎 Smart Search
+
+Fast stock search
+
+Finnhub-powered symbols and company lookup
+
+Command palette with Cmd/Ctrl + K
+
+⭐ Personal Watchlist
+
+Add and remove symbols
+
+User-specific watchlists
+
+Persistent storage in MongoDB
+
+📈 Professional Market Views
+
+TradingView charts
+
+Candlestick and advanced chart views
+
+Technical indicators
+
+Company profile and financial widgets
+
+Market heatmaps and top stories
+
+📰 News & Insights
+
+Market news through Finnhub
+
+Optional cross-source sentiment integrations
+
+Stock-specific information pages
+
+🤖 Automation & AI
+
+Inngest workflows
+
+AI-powered welcome experience
+
+Scheduled weekly news summaries
+
+Gemini integration support
+
+🌙 Clean Interface
+
+Dark-first visual design
+
+Tailwind CSS
+
+shadcn/ui
+
+Radix UI
+
+Responsive interface for desktop and mobile
+
+The original project documents these core capabilities, including authentication, search, watchlists, TradingView, onboarding, automation and the dark theme. fileciteturn1file0L115-L140
+
+🧩 Technology Stack
+
+🎨 Frontend
+
+Technology
+
+Purpose
+
+Next.js 15
+
+App framework
+
+React 19
+
+UI
+
+TypeScript
+
+Type-safe development
+
+Tailwind CSS v4
+
+Styling
+
+shadcn/ui
+
+UI components
+
+Radix UI
+
+Accessible primitives
+
+Lucide
+
+Icons
+
+🗄️ Backend & Data
+
+Technology
+
+Purpose
+
+MongoDB + Mongoose
+
+Persistence
+
+Better Auth
+
+Authentication
+
+Finnhub API
+
+Market data and news
+
+TradingView
+
+Charts and market widgets
+
+⚙️ Automation
+
+Technology
+
+Purpose
+
+Inngest
+
+Events, cron jobs and workflows
+
+Nodemailer
+
+Email delivery
+
+Gemini
+
+Optional AI-generated content
+
+These technologies and integrations are documented in the original project README. fileciteturn1file0L92-L110
+
+🏗️ Architecture
+
+                        🌐 Browser
+                            │
+                            ▼
+                    ┌────────────────┐
+                    │    Next.js     │
+                    │   App Router   │
+                    └───────┬────────┘
+                            │
+            ┌───────────────┼────────────────┐
+            ▼               ▼                ▼
+      🔐 Better Auth     📊 Finnhub     📈 TradingView
+            │               │                │
+            └───────────────┼────────────────┘
+                            ▼
+                    🗄️ MongoDB
+                            │
+                            ▼
+                       ⚙️ Inngest
+                            │
+                  ┌─────────┴─────────┐
+                  ▼                   ▼
+              🤖 AI Workflows      📧 Email
+
+📱 Personalization
+
+OpenStock includes an onboarding flow for:
+
+🌍 Country
+
+🎯 Investment goals
+
+🛡️ Risk tolerance
+
+🏭 Preferred industry
+
+These preferences are used to personalize the application experience. fileciteturn1file0L131-L135
+
+🛠️ Quick Start
+
+1. Clone
+
+git clone https://github.com/tetiana-a/OpenStock.git
 cd OpenStock
 
-# choose one:
-pnpm install
-# or
+2. Install dependencies
+
 npm install
-```
 
-Configure environment
-- Create a `.env` file (see [Environment Variables](#environment-variables)).
-- Verify DB connectivity:
-```bash
-pnpm test:db
-# or
-npm run test:db
-```
+or:
 
-Run development
-```bash
-# Next.js dev (Turbopack)
-pnpm dev
-# or
-npm run dev
-```
+pnpm install
 
-Run Inngest locally (workflows, cron, AI)
-```bash
-npx inngest-cli@latest dev
-```
+3. Configure environment
 
-Build & start (production)
-```bash
-pnpm build && pnpm start
-# or
-npm run build && npm start
-```
+Create a .env file in the project root.
 
-Open http://localhost:3000 to view the app.
-
-## 🐳 Docker Setup <a name="docker-setup"></a>
-
-You can run OpenStock and MongoDB easily with Docker Compose.
-
-1) Ensure Docker and Docker Compose are installed.
-
-2) docker-compose.yml includes two services:
-- openstock (this app)
-- mongodb (MongoDB database with a persistent volume)
-
-3) Create your `.env` (see examples below). For the Docker setup, use a local connection string like:
-```env
-MONGODB_URI=mongodb://root:example@mongodb:27017/openstock?authSource=admin
-```
-
-4) Start the stack:
-```bash
-# from the repository root
-docker compose up -d mongodb && docker compose up -d --build
-```
-
-5) Access the app:
-- App: http://localhost:3000
-- MongoDB is available inside the Docker network at host mongodb:27017
-
-Notes
-- The app service depends_on the mongodb service.
-- Credentials are defined in Compose for the MongoDB root user; authSource=admin is required on the connection string for root.
-- Data persists across restarts via the docker volume.
-
-Optional: Example MongoDB service definition used in this project:
-```yaml
-services:
-  mongodb:
-    image: mongo:7
-    container_name: mongodb
-    restart: unless-stopped
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: example
-    ports:
-      - "27017:27017"
-    volumes:
-      - mongo-data:/data/db
-    healthcheck:
-      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-
-volumes:
-  mongo-data:
-```
-
-## 🔐 Environment Variables <a name="environment-variables"></a>
-
-Create `.env` at the project root. Choose either a hosted MongoDB (Atlas) URI or the local Docker URI.
-
-Hosted (MongoDB Atlas):
-```env
-# Core
 NODE_ENV=development
 
-# Database (Atlas)
 MONGODB_URI=mongodb+srv://<user>:<pass>@<cluster>/<db>?retryWrites=true&w=majority
 
-# Better Auth
 BETTER_AUTH_SECRET=your_better_auth_secret
 BETTER_AUTH_URL=http://localhost:3000
 
-# Finnhub
-# Note: NEXT_PUBLIC_FINNHUB_API_KEY is required for Vercel deployment
 NEXT_PUBLIC_FINNHUB_API_KEY=your_finnhub_key
 FINNHUB_BASE_URL=https://finnhub.io/api/v1
 
-# Sentiment insights (optional)
-ADANOS_API_KEY=your_adanos_api_key
-# ADANOS_API_BASE_URL=https://api.adanos.org
-
-# AI Provider (optional, default: "gemini")
-# Supported: "gemini", "minimax", "siray"
-# AI_PROVIDER=gemini
-
-# Gemini
-GEMINI_API_KEY=your_gemini_api_key
-
-# MiniMax (optional, used when AI_PROVIDER=minimax or as fallback)
-# Get your key at https://platform.minimaxi.com
-# MINIMAX_API_KEY=your_minimax_api_key
-
-# Inngest Signing Key (required for Vercel deployment)
-# Get this from your Inngest dashboard: https://app.inngest.com/env/settings/keys
 INNGEST_SIGNING_KEY=your_inngest_signing_key
 
-# Email (Nodemailer via Gmail; consider App Passwords if 2FA)
+# Optional
+GEMINI_API_KEY=your_gemini_api_key
 NODEMAILER_EMAIL=youraddress@gmail.com
 NODEMAILER_PASSWORD=your_gmail_app_password
-```
 
-Local (Docker Compose) MongoDB:
-```env
-# Core
-NODE_ENV=development
+The original project documents MongoDB, Better Auth, Finnhub, Inngest and optional AI/email variables in its environment configuration. fileciteturn1file0L247-L289
 
-# Database (Docker)
-MONGODB_URI=mongodb://root:example@mongodb:27017/openstock?authSource=admin
+4. Check the database
 
-# Better Auth
-BETTER_AUTH_SECRET=your_better_auth_secret
-BETTER_AUTH_URL=http://localhost:3000
+npm run test:db
 
-# Finnhub
-# Note: NEXT_PUBLIC_FINNHUB_API_KEY is required for Vercel deployment
-NEXT_PUBLIC_FINNHUB_API_KEY=your_finnhub_key
+5. Start development
+
+npm run dev
+
+Open:
+
+http://localhost:3000
+
+The official project documents the same development flow and local URL. fileciteturn1file0L162-L191
+
+🐳 Docker
+
+OpenStock can also be run with Docker Compose.
+
+docker compose up -d mongodb
+docker compose up -d --build
+
+Local application:
+
+http://localhost:3000
+
+MongoDB runs inside the Docker network and uses a persistent volume. fileciteturn1file0L193-L220
+
+🔐 Production Deployment
+
+☁️ Vercel
+
+For a Vercel deployment, configure the required environment variables before deploying:
+
+MONGODB_URI=...
+BETTER_AUTH_SECRET=...
+BETTER_AUTH_URL=...
+NEXT_PUBLIC_FINNHUB_API_KEY=...
 FINNHUB_BASE_URL=https://finnhub.io/api/v1
+INNGEST_SIGNING_KEY=...
 
-# Sentiment insights (optional)
-ADANOS_API_KEY=your_adanos_api_key
-# ADANOS_API_BASE_URL=https://api.adanos.org
+The project specifically marks NEXT_PUBLIC_FINNHUB_API_KEY as required for Vercel deployment and INNGEST_SIGNING_KEY as required for the Inngest integration. fileciteturn1file0L247-L285
 
-# AI Provider (optional, default: "gemini")
-# Supported: "gemini", "minimax", "siray"
-# AI_PROVIDER=gemini
+🚀 Personal deployment
 
-# Gemini
-GEMINI_API_KEY=your_gemini_api_key
+Live deployment:
 
-# MiniMax (optional, used when AI_PROVIDER=minimax or as fallback)
-# Get your key at https://platform.minimaxi.com
-# MINIMAX_API_KEY=your_minimax_api_key
+👉 https://tetianakotolup.com/
 
-# Inngest Signing Key (required for Vercel deployment)
-# Get this from your Inngest dashboard: https://app.inngest.com/env/settings/keys
-INNGEST_SIGNING_KEY=your_inngest_signing_key
+📂 Project Structure
 
-# Email (Nodemailer via Gmail; consider App Passwords if 2FA)
-NODEMAILER_EMAIL=youraddress@gmail.com
-NODEMAILER_PASSWORD=your_gmail_app_password
-```
-
-Notes
-- Keep private keys server-side whenever possible.
-- If using `NEXT_PUBLIC_` variables, remember they are exposed to the browser.
-- In production, prefer a dedicated SMTP provider over a personal Gmail.
-- Do not hardcode secrets in the Dockerfile; use `.env` and Compose.
-
-## 🧱 Project Structure <a name="project-structure"></a>
-
-```
 app/
-  (auth)/
-    layout.tsx
-    sign-in/page.tsx
-    sign-up/page.tsx
-  (root)/
-    layout.tsx
-    page.tsx
-    help/page.tsx
-    stocks/[symbol]/page.tsx
-  api/inngest/route.ts
-  globals.css
-  layout.tsx
+├── (auth)/
+│   ├── sign-in/
+│   └── sign-up/
+├── (root)/
+│   ├── help/
+│   ├── stocks/[symbol]/
+│   └── watchlist/
+├── api/inngest/
+└── globals.css
+
 components/
-  ui/…          # shadcn/radix primitives (button, dialog, command, input, etc.)
-  forms/…       # InputField, SelectField, CountrySelectField, FooterLink
-  Header.tsx, Footer.tsx, SearchCommand.tsx, WatchlistButton.tsx, …
+├── ui/
+├── forms/
+├── Header.tsx
+├── Footer.tsx
+├── SearchCommand.tsx
+└── WatchlistButton.tsx
+
 database/
-  models/watchlist.model.ts
-  mongoose.ts
+├── models/
+└── mongoose.ts
+
 lib/
-  actions/…     # server actions (auth, finnhub, user, watchlist)
-  better-auth/…
-  inngest/…     # client, functions, prompts
-  nodemailer/…  # transporter, email templates
-  constants.ts, utils.ts
+├── actions/
+├── better-auth/
+├── inngest/
+└── nodemailer/
+
 scripts/
-  test-db.mjs
 types/
-  global.d.ts
-next.config.ts          # i.ibb.co image domain allowlist
-postcss.config.mjs      # Tailwind v4 postcss setup
-components.json         # shadcn config
-public/assets/images/   # logos and screenshots
-```
+public/
 
-## 📡 Data & Integrations <a name="data--integrations"></a>
+This structure follows the project layout documented in the original repository. fileciteturn1file0L339-L374
 
-- Finnhub
-    - Stock search, company profiles, and market news.
-    - Set `NEXT_PUBLIC_FINNHUB_API_KEY` and `FINNHUB_BASE_URL` (default: https://finnhub.io/api/v1).
-    - Free tiers may return delayed quotes; respect rate limits and terms.
+🌍 Market Data
 
-- Adanos sentiment insights (optional)
-    - Structured stock sentiment snapshots across Reddit, X.com, news, and Polymarket.
-    - Set `ADANOS_API_KEY`; optionally override the API host with `ADANOS_API_BASE_URL`.
-    - Used only for the stock detail sentiment card and does not replace Finnhub or TradingView.
+OpenStock uses multiple market-data and visualization sources:
 
-- TradingView
-    - Embeddable widgets used for charts, heatmap, quotes, and timelines.
-    - External images from `i.ibb.co` are allowlisted in `next.config.ts`.
+🟢 Finnhub
 
-- Better Auth + MongoDB
-    - Email/password with MongoDB adapter.
-    - Session validation via middleware; most routes are protected, with public exceptions for `sign-in`, `sign-up`, assets and Next internals.
+Used for:
 
-- Inngest
-    - Workflows:
-        - `app/user.created` → AI-personalized Welcome Email
-        - Cron `0 9 * * 1` → Weekly News Summary (every Monday at 9 AM, Kit broadcast)
-    - Local dev: `npx inngest-cli@latest dev`.
+symbol search
 
-- Email (Nodemailer)
-    - Gmail transport. Update credentials or switch to your SMTP provider.
-    - Templates for welcome and news summary emails.
+company profiles
 
+market news
 
-## 🌍 Market Support <a name="market-support"></a>
+🔵 TradingView
 
-OpenStock supports **30+ international stock exchanges** including NSE, LSE, TSX, and more. However, please be aware of important limitations based on our data providers.
+Used for:
 
-**Quick Facts**:
-- ✅ Finnhub supports most global exchanges
-- ⚠️ TradingView free tier has restrictions on emerging markets (India NSE, Vietnam, etc.)
-- 📊 Real-time data for non-US stocks is delayed by 15+ minutes on free tier
+charts
 
-**See [MARKET_SUPPORT.md](./MARKET_SUPPORT.md) for**:
-- Complete list of supported exchanges
-- Known limitations and workarounds
-- Why "This symbol is only available on TradingView" appears
-- How to upgrade for broader market coverage
-- Future improvements planned
+heatmaps
 
-For the latest supported symbols and exchanges, see [Finnhub's exchange list](https://finnhub.io/docs/api/symbol-lookup).
+quotes
 
+timelines
 
-## 🧪 Scripts & Tooling <a name="scripts--tooling"></a>
+market views
 
-Package scripts
-- `dev`: Next.js dev server with Turbopack
-- `build`: Production build (Turbopack)
-- `start`: Run production server
-- `lint`: ESLint
-- `test:db`: Validate DB connectivity
+🌎 International markets
 
-Developer experience
-- TypeScript strict mode
-- Tailwind CSS v4 (no separate tailwind.config needed)
-- shadcn/ui components with Radix primitives
-- cmdk command palette, next-themes, lucide-react icons
+The original project reports support for 30+ international exchanges, with availability and real-time/delayed behavior depending on provider limitations and plan. fileciteturn1file0L378-L425
 
-## 🤝 Contributing <a name="contributing"></a>
+⚠️ Important Security Rules
 
-You belong here. Whether you’re a student, a self-taught dev, or a seasoned engineer — contributions are welcome.
+Never commit secrets to GitHub.
 
-- Open an issue to discuss ideas and bugs
-- Look for “good first issue” or “help wanted”
-- Keep PRs focused; add screenshots for UI changes
-- Be kind, guide beginners, no gatekeeping — that’s the ODS way
+Keep these values private:
 
-## 🛡️ Security <a name="security"></a>
+MONGODB_URI
+BETTER_AUTH_SECRET
+INNGEST_SIGNING_KEY
+GEMINI_API_KEY
+NODEMAILER_PASSWORD
 
-If you discover a vulnerability:
-- Do not open a public issue
-- Email: <a href="mailto:opendevsociety@cc.cc">opendevsociety@cc.cc</a>
-- We'll coordinate responsible disclosure and patch swiftly
+Also remember:
 
-## 📜 License <a name="license"></a>
+Variables beginning with NEXT_PUBLIC_ are exposed to the browser.
 
-OpenStock is and will remain free and open for everyone. This project is licensed under the AGPL-3.0 License - see the LICENSE file for details.
+The original project explicitly recommends keeping private keys server-side whenever possible and avoiding secrets in Dockerfiles or source code. fileciteturn1file0L334-L337
 
-## 🙏 Acknowledgements <a name="acknowledgements"></a>
+🧪 Useful Commands
 
-- Finnhub for accessible market data
-- TradingView for embeddable market widgets
-- shadcn/ui, Radix UI, Tailwind CSS, Next.js community
-- Inngest for dependable background jobs and workflows
-- Better Auth for simple and secure authentication
-- All contributors who make open tools possible
+# Development
+npm run dev
 
-— Built openly, for everyone, forever free. Open Dev Society.
+# Production build
+npm run build
 
-> © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistribute, or deploy it (including as a web service), you must release your source code under the same license and credit the original authors.
+# Production server
+npm start
 
-## Our Honourable Contributors
-- [ravixalgorithm](https://github.com/ravixalgorithm) - Developed the entire application from the ground up, including authentication, UI design, API and AI integration, and deployment.
-- [Priyanshuu00007](https://github.com/Priyanshuu00007) - Created the official OpenStock logo and contributed to the project’s visual identity.
-- [chinnsenn](https://github.com/chinnsenn) - Set up Docker configuration for the repository, ensuring a smooth development and deployment process.
-- [koevoet1221](https://github.com/koevoet1221) - Resolved MongoDB Docker build issues, improving the project’s overall stability and reliability.
-- [ettoreciolli1](https://github.com/ettoreciolli1) - updated Readme
+# Database connectivity test
+npm run test:db
 
+# Inngest local development
+npx inngest-cli@latest dev
 
+The project's documented scripts include development, build, start, lint and database testing. fileciteturn1file0L428-L440
 
-## ❤️ Partners & Backers
+🤝 Open Source & Contributions
 
-<a href="https://www.siray.ai/">
-  <img src="public/assets/icons/siray.svg" alt="Siray.ai Logo" width="100" />
-</a>
+OpenStock is built around an open-source community model.
 
-**[Siray.ai](https://www.siray.ai/)** — The robust AI infrastructure backing OpenStock. Siray.ai ensures our market insights never sleep.
+Ideas, bug reports and focused pull requests are welcome. The original project encourages contributors to help beginners, avoid gatekeeping and keep pull requests focused. fileciteturn1file0L443-L450
 
-## Special thanks
-Huge thanks to [Adrian Hajdin (JavaScript Mastery)](https://github.com/adrianhajdin) — his excellent Stock Market App tutorial was instrumental in building OpenStock for the open-source community under the Open Dev Society.
+🛡️ Security
 
-GitHub: [adrianhajdin](https://github.com/adrianhajdin)
-YouTube tutorial: [Stock Market App Tutorial](https://www.youtube.com/watch?v=gu4pafNCXng)
-YouTube channel: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+If you discover a security vulnerability:
+
+Do not open a public issue.
+
+Use the responsible disclosure contact listed by the original project:
+
+📧 opendevsociety@cc.cc fileciteturn1file0L452-L456
+
+📜 License
+
+OpenStock is licensed under AGPL-3.0.
+
+The original project states that if you modify, redistribute or deploy the project as a web service, you must release the source under the same license and credit the original authors. fileciteturn1file0L459-L474
+
+🏆 Credits & Acknowledgements
+
+Original Project
+
+Open Dev Society — OpenStock
+
+🔗 https://github.com/Open-Dev-Society/OpenStock
+
+Personal deployment & customization
+
+Eduard
+
+Special thanks to
+
+Finnhub — market data
+
+TradingView — market widgets
+
+Next.js, React, Tailwind CSS
+
+shadcn/ui and Radix UI
+
+Inngest — workflows
+
+Better Auth — authentication
+
+MongoDB — persistence
+
+All contributors who make open-source tools possible
+
+The original project credits these technologies and contributors, including Adrian Hajdin / JavaScript Mastery, and thanks its broader open-source community. fileciteturn1file0L463-L498
+
+<div align="center">
+
+❤️ Built openly. Improved continuously.
+
+OpenStock — tetiana kotolup Edition
+
+🚀 Explore the market.
+📊 Understand the data.
+⭐ Build your watchlist.
+🌍 Keep learning.
+
+Open the live version →
+
+</div>
